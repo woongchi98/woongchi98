@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chiwoong
-- 👀 I’m interested in ...
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning Statistics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram : @chio_ong
 - 📫 My blog :https://woongchi98.tistory.com/
 
